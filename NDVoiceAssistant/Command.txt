@@ -1,0 +1,14 @@
+open notepad;notepad.exe
+open youtube;www.youtube.com
+open instagram;www.instagram.com
+open facebook;www.facebook.com
+hello ND;Hello, Welcome to family. I am here for your assistance.
+print name; Your Name is Duaa Syed
+open Flipkart;www.Flipkart.com
+open Opera;opera.exe
+open Outlook;www.Outlook.com
+Add Commands;Adding Command
+open amazon;www.amazon.com
+open google;www.google.com
+hey ND;Hello Duaa. How are you?
+Introduce yourself;I am ND personal voice assistant.open whatsapp;www.whatsapp.com
